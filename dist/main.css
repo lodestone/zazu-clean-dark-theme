@@ -71,7 +71,7 @@ section#zazu div.results ul li h2, section#zazu div.results ul li h3 {
   overflow: hidden;
   text-overflow: ellipsis;
   font-weight: 400;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: "Realtime";
 }
 section#zazu div.results ul li h2 {
   font-size: 20px;
