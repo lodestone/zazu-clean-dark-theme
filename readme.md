@@ -1,14 +1,13 @@
-## Clean Dark Theme for Zazu
+## Magneto Zazu Theme
 
-![Screenshot](./images/screenshot.png)
 
 ## Installing
 
-1. Mark `singuerinc/zazu-clean-dark-theme` inside of your `~/.zazurc.json` file.
+1. Mark `lodestone/zazu-magneto` inside of your `~/.zazurc.json` file.
 
   ```json
   {
-    "theme": "singuerinc/zazu-clean-dark-theme"
+    "theme": "lodestone/zazu-mangeto"
   }
   ```
 

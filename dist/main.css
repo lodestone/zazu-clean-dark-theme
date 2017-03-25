@@ -13,6 +13,7 @@ section#zazu {
   cursor: move;
 }
 section#zazu input {
+  font-family: Realtime;
   color: #ced4da;
   outline: none;
   font-size: 40px;

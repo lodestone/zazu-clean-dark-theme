@@ -1,8 +1,8 @@
 {
-  "name": "clean-dark-theme",
+  "name": "magneto",
   "version": "1.0.0",
-  "description": "A clean dark theme for Zazu.",
-  "author": "Nahuel Scotti",
+  "description": "A magnetic theme for Zazu.",
+  "author": "Matt Petty",
   "license": "MIT",
   "dependencies": {
     
